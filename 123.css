@@ -123,7 +123,7 @@ li{
             margin-right:7px;
             margin-top:20px;
             float: right;
-            background:url(gouwuche.png.png) no-repeat 10px center;
+            background:url("tupian/gouwuche.png.png") no-repeat 10px center;
             background-color:#f5f5f5;
             border:1px solid #e3e3e3;
             line-height:40px;
@@ -204,7 +204,7 @@ li{
             height:43px;    
             margin-top: 0px;
             margin-left: 5px;
-            background: url('fenlei.jpg') no-repeat 8px 15px #ffffff;
+            background: url('tupian/fenlei.jpg') no-repeat 8px 15px #ffffff;
         }
         .navl a{
             text-decoration:none;
@@ -266,11 +266,11 @@ li{
             line-height:2em;
         }
         .big li p{
-        line-height: 30px;
+        margin-top: -20px;
         color: #aaaaaa;
        }
        .big li span{   
-       padding-top: 10px; 
+       
        font-size: 15px;
        }
        .last-wrap{
